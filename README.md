@@ -1,7 +1,8 @@
 IoT: Real-time Data Processing and Analytics using Apache Spark / Kafka
 =============================================
 
-![ProjectOverivew](image.png)  
+![image](https://github.com/mangeshpawar42/Spark-Kafka-Data-processing-and-Analysis/assets/79745221/524c441a-64d2-49ad-9dc3-38460a77d84c)
+
 
 ## Table of Contents
 1. [Overview](#1-overview)
